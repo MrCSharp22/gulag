@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RafaelWare.Goolag
+namespace RafaelWare.Gulag
 {
     public interface IProvider
     {

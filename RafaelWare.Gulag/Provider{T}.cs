@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RafaelWare.Goolag
+namespace RafaelWare.Gulag
 {
     public abstract class Provider<T> : IProvider
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RafaelWare.Goolag", "RafaelWare.Goolag\RafaelWare.Goolag.csproj", "{6936087A-A54B-4C25-861E-5DE4D6F091FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RafaelWare.Gulag", "RafaelWare.Gulag\RafaelWare.Gulag.csproj", "{5BB83FF0-FA44-4A31-9723-60AC089B1E07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6936087A-A54B-4C25-861E-5DE4D6F091FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6936087A-A54B-4C25-861E-5DE4D6F091FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6936087A-A54B-4C25-861E-5DE4D6F091FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6936087A-A54B-4C25-861E-5DE4D6F091FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB83FF0-FA44-4A31-9723-60AC089B1E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB83FF0-FA44-4A31-9723-60AC089B1E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB83FF0-FA44-4A31-9723-60AC089B1E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB83FF0-FA44-4A31-9723-60AC089B1E07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

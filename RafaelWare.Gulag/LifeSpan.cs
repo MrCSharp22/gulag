@@ -1,4 +1,4 @@
-﻿namespace RafaelWare.Goolag
+﻿namespace RafaelWare.Gulag
 {
     public enum LifeSpan
     {

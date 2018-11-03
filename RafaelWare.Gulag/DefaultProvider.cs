@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace RafaelWare.Goolag
+namespace RafaelWare.Gulag
 {
     public class DefaultProvider : IProvider
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RafaelWare.Goolag
+namespace RafaelWare.Gulag
 {
     public sealed class IoC
     {
@@ -222,7 +222,7 @@ namespace RafaelWare.Goolag
         /// </summary>
         /// <param name="registration">The registration.</param>
         /// <returns></returns>
-        /// <exception cref="RafaelWare.Goolag.InvalidRegistrationException"></exception>
+        /// <exception cref="RafaelWare.Gulag.InvalidRegistrationException"></exception>
         public object Resolve(Registration registration)
         {
             if (registration.BuilderFunc != null)
