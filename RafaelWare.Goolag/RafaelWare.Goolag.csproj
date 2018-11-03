@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>RafaelWare</Authors>
+    <Company>RafaelWare</Company>
+    <Description>Experimental IoC containerx</Description>
+    <Copyright>2017</Copyright>
+    <PackageIconUrl>https://imgur.com/7Vue6wd.png</PackageIconUrl>
+    <PackageId>RafaelWare.Toolkit.Experimental.IoC</PackageId>
+    <Product>RafaelWare.Toolkit.Experimental.IoC</Product>
+    <AssemblyVersion>2018.7.15.1811</AssemblyVersion>
+    <FileVersion>2018.7.15.1811</FileVersion>
+    <Version>2018.7.15.1811</Version>
+  </PropertyGroup>
+
+</Project>
